@@ -19,3 +19,12 @@
 
 ### *Learning*:
 <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark">
+
+***
+
+<div align="center">
+<br><p align="centre"><b>Visualization Counter</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JoaoGuiLeao}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=154c79&height=120&section=footer"/>
